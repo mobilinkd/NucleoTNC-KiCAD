@@ -1,4 +1,6 @@
 (sym_lib_table
+  (version 7)
   (lib (name "NUCLEO-F303K8")(type "Legacy")(uri "/home/rob/NucleoTNC/NUCLEO-F303K8.lib")(options "")(descr ""))
   (lib (name "Nucleo32TNC")(type "Legacy")(uri "${KIPRJMOD}/Nucleo32TNC.lib")(options "")(descr ""))
+  (lib (name "Nucleo32TNC-rescue")(type "KiCad")(uri "${KIPRJMOD}/Nucleo32TNC-rescue.kicad_sym")(options "")(descr ""))
 )
